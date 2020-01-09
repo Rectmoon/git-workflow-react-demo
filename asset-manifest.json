@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/git-workflow-react-demo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/git-workflow-react-demo/static/js/main.dcdf0596.chunk.js",
+    "main.js.map": "/git-workflow-react-demo/static/js/main.dcdf0596.chunk.js.map",
+    "runtime-main.js": "/git-workflow-react-demo/static/js/runtime-main.40b36c49.js",
+    "runtime-main.js.map": "/git-workflow-react-demo/static/js/runtime-main.40b36c49.js.map",
+    "static/js/2.eaa3cb0e.chunk.js": "/git-workflow-react-demo/static/js/2.eaa3cb0e.chunk.js",
+    "static/js/2.eaa3cb0e.chunk.js.map": "/git-workflow-react-demo/static/js/2.eaa3cb0e.chunk.js.map",
+    "index.html": "/git-workflow-react-demo/index.html",
+    "precache-manifest.487cb40fbd84a05b035f369ccb341c9c.js": "/git-workflow-react-demo/precache-manifest.487cb40fbd84a05b035f369ccb341c9c.js",
+    "service-worker.js": "/git-workflow-react-demo/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/git-workflow-react-demo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.eaa3cb0e.chunk.js.LICENSE": "/git-workflow-react-demo/static/js/2.eaa3cb0e.chunk.js.LICENSE",
+    "static/media/logo.svg": "/git-workflow-react-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40b36c49.js",
+    "static/js/2.eaa3cb0e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.dcdf0596.chunk.js"
+  ]
+}
